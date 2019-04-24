@@ -7,8 +7,9 @@ namespace Problem37
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Bom dia!!!");
+            
             Console.WriteLine("COMO VOCE ESTAR HOJE CARALHO??????");
+            Console.WriteLine("Tenha um bom dia");
         }
     }
 }
