@@ -8,6 +8,7 @@ namespace Problem37
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!!!");
+            Console.WriteLine("COMO VOCE ESTAR HOJE CARALHO??????");
         }
     }
 }
